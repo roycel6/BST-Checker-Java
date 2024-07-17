@@ -1,7 +1,7 @@
-package assignment3;
+package BSTChecker;
 
 
-public class Assignment3 {
+public class BSTChecker {
 	
 	static int lastValue = 0;		//stores last processed node
 	
